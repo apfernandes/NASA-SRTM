@@ -7,6 +7,6 @@ I will try to gather and explain some of the code that I have produced to repres
 
 It still blows my mind that one can have access to land elevation data for almost all of the Earth and represent that information in 3D on a mobile phone.
 
-Following some sample images.
+Following are some sample images.
 
 ![Earth Globe](SRMT.jpg)
