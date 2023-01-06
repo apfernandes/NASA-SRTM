@@ -22,9 +22,10 @@ Data is available in different resolutions. Below is a map representation of the
 
 30 arc second means we should have 2 samples per minute = 120 samples per degree
 
-So, for example, from w060n90 to w020n90 we should have 40 degrees * 120 samples = 4800 samples
-And from w020n90 to w020n40 we should have 50 degrees * 120 samples = 6000 samples
-Total samples = 3600 * 6000 = 28 800 000 @ 2 bytes per sample => 57 600 000
+So, for example, from w060n90 to w020n90 we should have 40 degrees * 120 samples = 4800 samples.
+From w020n90 to w020n40 we should have 50 degrees * 120 samples = 6000 samples.
+
+Total number of samples = 3600 * 6000 = 28 800 000 @ 2 bytes per sample => 57 600 000
 
 The list below shows the files that can be downloaded 
 
