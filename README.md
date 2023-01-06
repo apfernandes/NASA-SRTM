@@ -14,15 +14,16 @@ Following is a sample image.
 
 ![Earth Globe](SRMT.jpg)
 
-Data is available in different resolutions. Below is a map representation of the different tiles for the 30 arc second file format.
+Data is available in different resolutions. Below is a map representation of the different tiles for the 30 arc-seconds file format.
 
-30 arc second files represent land elevation for areas aproximately 1 km.
+30 arc-seconds files represent land elevation for areas aproximately 1 km.
 
 ![World Map](WorldMap.jpg)
 
-30 arc second means we should have 2 samples per minute = 120 samples per degree
+30 arc-seconds means we should have 2 samples per minute = 120 samples per degree
 
 So, for example, from w060n90 to w020n90 we should have 40 degrees * 120 samples = 4800 samples.
+
 From w020n90 to w020n40 we should have 50 degrees * 120 samples = 6000 samples.
 
 Total number of samples = 3600 * 6000 = 28 800 000 @ 2 bytes per sample => 57 600 000
