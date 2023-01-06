@@ -1,4 +1,13 @@
+```                                                       
+ ____ ____ ____ ____ _________ ____ ____ ____ ____    
+||N |||A |||S |||A |||       |||S |||R |||T |||M ||   
+|__|||__|||__|||__|||_______|||__|||__|||__|||__||   
+|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|   
+                                                                                                               
+```
+
 # NASA-SRTM
+
 Reading NASA SRTM files and representing them with Apple Scenekit
 
 I have always been a fan of the Space Shuttle missions and fascinated by the Shuttle Radar Topography Mission (SRTM)
