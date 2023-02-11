@@ -59,14 +59,22 @@ The list below shows the files that can be downloaded
 -rw-r--r--@  1 pfernandes  staff  57600000 Feb  2  2006 W100N90.DEM
 -rwxrwxrwx@  1 pfernandes  staff  57600000 Feb  2  2006 W100S10.DEM
 
--rw-r--r--@  1 pfernandes  staff  57600000 Feb  2  2006 W140N40_.DEM
+-rw-r--r--@  1 pfernandes  staff  57600000 Feb  2  2006 W140N40.DEM
 -rw-r--r--@  1 pfernandes  staff  57600000 Feb  2  2006 W140N90.DEM
 -rw-r--r--@  1 pfernandes  staff  57600000 Feb  2  2006 W180N90.DEM
       
 
 ```
 
-I will be using iOS to read these files and represent them graphically.
+To download the files you will have to register on the website
+
+https://search.earthdata.nasa.gov/search
+
+Search for `srtm 30 dem` as shown in the below image and to download the files
+
+![Earth Data](earth_data_nasa.jpg)
+
+We will be using iOS to read these files and represent them graphically.
 
 We use an iOS Xcode project without Storyboard (https://github.com/apfernandes/storyboard-less)
 
